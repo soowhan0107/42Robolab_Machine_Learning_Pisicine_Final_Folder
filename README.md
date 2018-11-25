@@ -6,6 +6,7 @@ All projects are run with Jupyter with Python3 on Ubuntu 16.04.
 One needs to have these dependencies:
 
 For Image Conversion from Wav files into PNG (only applicable for subvocalization project), one needs to install SOX
+
 sudo apt-get install sox
 
 1. Numpy (pip install numpy)
