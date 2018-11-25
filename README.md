@@ -14,6 +14,7 @@ One needs to have these dependencies:
 7. matplotlib.pyplot (pip install matplotlib)
 8. tensorflow (pip install tensorflow)
 9. PIL (pip install Pillow)
+10. skimage (pip install scikit-image)
 
 On the terminal, you can type "sudo -i" to be in your sudo mode. Then you can run all those "pip instsall ..." commands.
 If not, then you can run those commands by typing "sudo pip install ...". IF YOU DON'T HAVE SUDO, IT MAY NOT WORK.
