@@ -26,6 +26,6 @@ If not, then you can run those commands by typing "sudo pip install ...". IF YOU
 Lastly, for our ML piscine Final Project, we did Subvocalization Classification using CNN.
 This is the tensorboard graph for my test. I had 97% accuracy on the test.
 
-![image](https://imgur.com/a/bw0Z9tt)
+![image](https://imgur.com/n58uhGs)
 
 Enjoy :)
