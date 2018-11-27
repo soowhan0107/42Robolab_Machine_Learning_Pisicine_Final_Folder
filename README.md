@@ -23,4 +23,9 @@ sudo apt-get install sox
 On the terminal, you can type "sudo -i" to be in your sudo mode. Then you can run all those "pip instsall ..." commands.
 If not, then you can run those commands by typing "sudo pip install ...". IF YOU DON'T HAVE SUDO, IT MAY NOT WORK.
 
+Lastly, for our ML piscine Final Project, we did Subvocalization Classification using CNN.
+This is the tensorboard graph for my test. I had 97% accuracy on the test.
+
+![image][https://imgur.com/a/bw0Z9tt]
+
 Enjoy :)
